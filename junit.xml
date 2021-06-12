@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="2.599">
+  <testsuite name="Enzyme basics" errors="0" failures="0" skipped="0" timestamp="2021-06-11T15:26:37" time="1.678" tests="1">
+    <testcase classname="Enzyme basics should root web part element exists" name="Enzyme basics should root web part element exists" time="0.035">
+    </testcase>
+  </testsuite>
+</testsuites>
